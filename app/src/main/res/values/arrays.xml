@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="xposedscope" >
+        <!-- 番茄免费小说 --><item>com.dragon.read</item>
+        <!-- 微信 <item>com.tencent.mm</item>-->
+        <!-- 七猫免费小说 --> <item>com.kmxs.reader</item>
+    </string-array>
+</resources>
